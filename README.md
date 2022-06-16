@@ -1,7 +1,7 @@
 # Batman -- задание для обучения
 
-![image](https://user-images.githubusercontent.com/98582981/174105443-083d9284-095c-4be4-9417-7609bbd78b92.png)
 
+![BatmanCool](https://user-images.githubusercontent.com/98582981/174132149-1a4ad292-17ce-4c26-be57-70ff4b432b8c.gif)
 
 
  **Посмотреть проект можно по ссылке:** https://w1llow1sp.github.io/Batman/
